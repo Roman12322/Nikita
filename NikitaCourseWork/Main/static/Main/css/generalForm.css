@@ -1,0 +1,15 @@
+.messages{
+    position:absolute;
+   color: rgb(255, 85, 97);
+   font-weight: 700;
+   font-size: 15px;
+   left:555px;
+   top: 425px;
+}
+#chosenFile{
+width:300px;
+border: thick double #000000;
+position:absolute;
+left:530px;
+top: 550px;
+}

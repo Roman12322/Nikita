@@ -1,0 +1,8 @@
+.messages{
+    position:absolute;
+   color: rgb(255, 85, 97);
+   font-weight: 700;
+   font-size: 15px;
+   left:500px;
+   top: 310px;
+}
